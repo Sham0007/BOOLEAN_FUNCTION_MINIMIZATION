@@ -62,6 +62,7 @@ endmodule
 
 
 **Timing Diagram**
+
 ![image](https://github.com/user-attachments/assets/ab479ca2-b340-41bf-aba7-e62674f18446)
 
 
